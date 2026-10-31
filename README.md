@@ -121,7 +121,7 @@ We welcome community contributions! To suggest a new SaaS product or open-source
 1. Fork this repository.
 2. Add your entry to `README.md` following the existing tabular structure.
 3. Verify that all links are live and factual.
-4. Ensure open-source projects include a valid GitHub Stars_Badge linked to the repository's stargazers page:
+4. Ensure open-source projects include a valid GitHub_Stars_Badge linked to the repository's stargazers page:
    ```markdown
    [![GitHub_Stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)
    ```
