@@ -2,37 +2,41 @@
   <img src="./assets/banner.svg" alt="Awesome Sales Proposal and Document Automation" width="100%" />
 </p>
 
-# Awesome Sales Proposal & Document Automation
+# 📑 Awesome Sales Proposal & Document Automation 🚀
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Tracked Repos](https://img.shields.io/badge/Open--Source-Curated-blue.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Sales-Proposal-Document-Automation)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-> A curated directory of software-as-a-service (SaaS) platforms and open-source projects for **Sales Proposal Automation**, **Configure-Price-Quote (CPQ)** workflows, **RFP (Request for Proposal) Response Automation**, and **Self-Hosted Document Generation Engines**.
+> 💼 A curated directory of software-as-a-service (SaaS) platforms and open-source projects for **Sales Proposal Automation**, **Configure-Price-Quote (CPQ)** workflows, **RFP (Request for Proposal) Response Automation**, and **Self-Hosted Document Generation Engines**. ⚡
 
 ---
 
-## Sector Overview & Market Dynamics
+## 🌐 Sector Overview & Market Dynamics
 
 The global **Proposal Management & Document Automation Software** market is valued at approximately **$3.66 Billion in 2026** (with the broader document automation and generation market reaching ~$6.20 Billion), expanding at a compound annual growth rate (**CAGR**) between **11.2% and 13.6%** through the 2030s. The sector is **moderately fragmented**—broad ecosystem giants (HubSpot, Salesforce CPQ) and document unicorns (PandaDoc) dominate multi-tenant contract signing and standard quote-to-close workflows, while specialized, high-ACV enterprise response management vendors (Responsive/RFPIO, Loopio) maintain strong defensibility in technical RFP and security questionnaire workflows. Concurrently, an emerging wave of agile, AI-native startups and open-source agentic pipelines is unbundling static PDF proposal generation.
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS / Commercial Platforms](#saas--commercial-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-  - [Open-Source Projects Table](#open-source-projects-ranked-by-stars)
-  - [Detailed Project Descriptions](#detailed-project-descriptions)
-- [Comparison: SaaS vs. Open-Source](#comparison-saas-vs-open-source)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS / Commercial Platforms](#️-saas--commercial-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [⭐ Open-Source Projects Table](#-open-source-projects-ranked-by-stars)
+  - [🔍 Detailed Project Descriptions](#-detailed-project-descriptions)
+- [⚖️ Comparison: SaaS vs. Open-Source](#️-comparison-saas-vs-open-source)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📜 Disclaimer](#-disclaimer)
+- [📈 Star History](#-star-history)
 
 ---
 
-## SaaS / Commercial Platforms
+## ☁️ SaaS / Commercial Platforms
 
 The following table benchmarks top commercial sales proposal and document automation platforms, ordered descending by organizational scale (market capitalization or valuation/ARR).
 
@@ -50,11 +54,11 @@ The following table benchmarks top commercial sales proposal and document automa
 
 ---
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
 Open-source tooling in proposal and document workflows ranges from **self-hosted e-signature and document management platforms** to **specialized AI-driven RFP answering and JSON proposal engines**.
 
-### Open-Source Projects Ranked by Stars
+### ⭐ Open-Source Projects Ranked by Stars
 
 | Repository | GitHub Stars | License | Tech Stack | Primary Focus |
 | :--- | :--- | :--- | :--- | :--- |
@@ -76,18 +80,18 @@ Open-source tooling in proposal and document workflows ranges from **self-hosted
 
 ---
 
-### Detailed Project Descriptions
+### 🔍 Detailed Project Descriptions
 
-#### 1. Contract & E-Signature Automation
+#### 1. ✍️ Contract & E-Signature Automation
 - **[DocuSeal](https://github.com/docusealco/docuseal)** — Open-source platform for creating, sending, and signing digital proposals and contracts. Provides a full PDF document builder, fillable form fields, automated webhook deliveries, and self-hosted privacy compliance.
 - **[Documenso](https://github.com/documenso/documenso)** — Modern, developer-first e-signature infrastructure. Ideal for teams embedding digital contract execution directly into their custom sales software or internal proposal pipelines.
 
-#### 2. Template-Driven Document Generation
+#### 2. 🖨️ Template-Driven Document Generation
 - **[Carbone](https://github.com/carboneio/carbone)** — Fast, enterprise-grade report and proposal generation engine. Ingests JSON data payloads and merges them into LibreOffice templates (`.docx`, `.odt`) before compiling pixel-perfect PDFs.
 - **[Docassemble](https://github.com/jhpyle/docassemble)** — Comprehensive guided interview and document assembly platform. Translates questionnaire inputs into complete sales contracts, legal agreements, and customized client proposals.
 - **[GOTIHUB Proposal Engine](https://github.com/apurba-labs/gotihub-proposal)** — Lightweight, template-driven proposal generator built on Python, Jinja2, and Playwright. Produces clean A4 proposals from modular JSON schemas without requiring external proprietary APIs.
 
-#### 3. AI-Powered RFP & Proposal Response Engines
+#### 3. 🤖 AI-Powered RFP & Proposal Response Engines
 - **[AI Sales Team Claude](https://github.com/zubair-trabzada/ai-sales-team-claude)** — Multi-agent system executing prospect qualification (BANT & MEDDIC), meeting prep, automated sales proposal generation, and pipeline synthesis.
 - **[AutoRFP (run-llama)](https://github.com/run-llama/auto_rfp)** — LlamaIndex-powered RFP automation tool. Automatically parses question lists from incoming tender PDFs/DOCs and generates answers cross-referenced with your company knowledge base.
 - **[Microsoft RFP Solution Accelerator](https://github.com/microsoft/agent-for-rfp-response-solution-accelerator)** — Reference architecture by Microsoft for deploying Azure OpenAI and Cognitive Search to extract RFP questions and generate grounded technical responses.
@@ -98,7 +102,7 @@ Open-source tooling in proposal and document workflows ranges from **self-hosted
 
 ---
 
-## Comparison: SaaS vs. Open-Source
+## ⚖️ Comparison: SaaS vs. Open-Source
 
 | Capability | SaaS Platforms (e.g., PandaDoc, HubSpot) | Self-Hosted / Open-Source (e.g., DocuSeal, RFPilot) |
 | :--- | :--- | :--- |
@@ -110,7 +114,7 @@ Open-source tooling in proposal and document workflows ranges from **self-hosted
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
 We welcome community contributions! To suggest a new SaaS product or open-source tool:
 
@@ -125,7 +129,19 @@ We welcome community contributions! To suggest a new SaaS product or open-source
 
 ---
 
-## Disclaimer
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and supporting **Awesome Sales Proposal & Document Automation**! 🌟
+
+If you found this curated resource helpful for your sales operations, deal workflows, or technical stack:
+- ⭐ **Star** this repository on GitHub to help others discover it.
+- 🍴 **Fork** it to build your own tailored internal knowledge base.
+- 📢 **Share** it with your sales engineering, RevOps, and developer peers.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to back ongoing maintenance and new tools curation, support the project via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Every contribution is deeply appreciated! 🙌
+
+---
+
+## 📜 Disclaimer
 
 - This repository is a community-curated directory intended for research, evaluation, and educational purposes.
 - Commercial trademarks, product logos, and brand names are the property of their respective owners.
@@ -133,6 +149,12 @@ We welcome community contributions! To suggest a new SaaS product or open-source
 
 ---
 
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Sales-Proposal-Document-Automation&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Sales-Proposal-Document-Automation&type=date&legend=top-left)
+
+---
+
 <p align="center">
-  <sub>Maintained for sales operations leaders, deal desk managers, solutions engineers, and document automation developers.</sub>
+  <sub>Maintained with ❤️ for sales operations leaders, deal desk managers, solutions engineers, and document automation developers.</sub>
 </p>
